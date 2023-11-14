@@ -5,7 +5,7 @@
 * Version: 1.0  
 
 * Vulnerable file:parcel_list.php
-![image](https://github.com/BigTiger2020/2023/blob/main/best-courier-management-system/xss-2.png)  
+![image](https://github.com/BigTiger2020/2023/blob/main/best-courier-management-system/xss-2.png)
 
 
 * POC:  

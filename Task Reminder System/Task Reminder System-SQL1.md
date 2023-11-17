@@ -3,7 +3,7 @@ This project is entitled Task Reminder System. It is a web-based application tha
 
 * Vendor Homepage:  https://www.sourcecodester.com/php/16451/task-reminder-system-php-and-mysql-source-code-free-download.html
 
-* Software Link: [http://otcms.com/news/7856.html ](https://www.sourcecodester.com/sites/default/files/download/oretnom23/php-trs.zip) 
+* Software Link: (https://www.sourcecodester.com/sites/default/files/download/oretnom23/php-trs.zip) 
 
 * Version: 1.0   
 
